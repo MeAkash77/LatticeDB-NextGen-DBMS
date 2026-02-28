@@ -205,7 +205,7 @@ flowchart TD
 This requires you to have the prerequisites installed. Then:
 
 ```bash
-git clone https://github.com/hoangsonww/LatticeDB-NextGen-DBMS.git
+git clone https://github.com/MeAkash77/LatticeDB-NextGen-DBMS.git
 cd LatticeDB-NextGen-DBMS
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
@@ -815,7 +815,7 @@ The workflow automatically builds and tests the code on every push and pull requ
 
 ## Contributing
 
-We ❤️ contributions! Ways to help:
+I ❤️ contributions! Ways to help:
 
 * Tackle issues labeled `good-first-issue` or `help-wanted`.
 * Add merge resolvers and UDFs in WASM.
