@@ -232,8 +232,7 @@ You do not need to install any dependencies locally. Just:
 When successful, you should see the following:
 
 <p align="center">
-  <img src="docs/repl.png" alt="LatticeDB REPL Screenshot" width="100%"/>
-</p>
+<img width="959" height="482" alt="Image" src="https://github.com/user-attachments/assets/23037e83-4696-4150-ba76-f17dfd409966" /></p>
 
 Feel free to try out some commands such as `help`, `\d` (list all tables), and `\stats` (show DB stats), and more!
 
