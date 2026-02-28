@@ -7,7 +7,6 @@
 
 <p align="center">
   <img width="323" height="114" alt="Image" src="https://github.com/user-attachments/assets/d775643f-2b4e-4c72-81c4-738ae90f1633" />
-  <img src="docs/logo.png" alt="LatticeDB Logo" width="50%"/>
 </p>
 
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://isocpp.org/)
