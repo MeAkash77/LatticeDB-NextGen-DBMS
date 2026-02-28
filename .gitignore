@@ -1,0 +1,20 @@
+# Build artifacts
+/out/
+/*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tooling
+.ccache/
+.cache/
+/gui/node_modules/
+/gui/dist/
+/gui/.vercel/
