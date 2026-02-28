@@ -6,6 +6,7 @@
 > **Mission**: Deliver a modern database that seamlessly integrates traditional RDBMS capabilities with cutting-edge features like vector search, temporal queries, adaptive compression, and comprehensive security - all in a single, cohesive system.
 
 <p align="center">
+  <img width="323" height="114" alt="Image" src="https://github.com/user-attachments/assets/d775643f-2b4e-4c72-81c4-738ae90f1633" />
   <img src="docs/logo.png" alt="LatticeDB Logo" width="50%"/>
 </p>
 
